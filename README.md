@@ -2,8 +2,6 @@
 
 **Senior Engineering Leader | FinTech • Payments • LegalTech • AI • Education**  
 Karachi, Sindh, Pakistan  
-📞 +92 300 2264514  
-📧 fkhan79@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/fmkhan/)  
 🐦 [@fkhan79](https://x.com/fkhan79)  
 
