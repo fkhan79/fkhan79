@@ -7,9 +7,6 @@ Karachi, Sindh, Pakistan
 🔗 [LinkedIn](https://www.linkedin.com/in/fmkhan/)  
 🐦 [@fkhan79](https://x.com/fkhan79)  
 
-![Profile Banner](https://via.placeholder.com/1200x400/0a2540/ffffff?text=Faisal+Masood+Khan+-+26+Years+of+Transformative+Tech+Leadership)  
-*(Replace with your own banner image if desired)*
-
 With **26+ years** in IT and **13+ years** in technical leadership, I build scalable, secure, high-impact systems in **FinTech**, **Digital Banking**, **Payments**, **LegalTech**, and **AI-driven platforms**. Currently driving software development, infrastructure, and large-scale education initiatives in GenAI / Cloud Computing.
 
 Led one of the **fastest and cleanest global Mastercard integrations** for a virtual BNPL card product at ZOOD (ex-Tez Financial Services), earning formal Mastercard recognition.
