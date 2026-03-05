@@ -17,7 +17,7 @@ Passionate about knowledge sharing: 28+ years teaching undergraduates/graduates 
 
 ## 🌟 Professional Highlights
 
-- **Head of Engineering & Development** @ EvantageSoft Pvt Ltd (2024–present)  
+- **Head of Engineering & Development** @ EvantageSoft Pvt Ltd (Nov 2024–Jan 2026)  
   Co-CTO role → LegalTech pilot (AskFides.com) with custom ML model & end-to-end MIS  
   Next-gen API-based Core Banking Engine & remittance platform supervision  
   WSO2 integration for microservices & third-party platforms
@@ -52,7 +52,7 @@ AI/ML: Python-based models, fine-tuning LLMs on legal/financial datasets, ETL pi
 Payments (Mastercard, ISO 8583 patterns, Open Banking, H2H auth)  
 FinTech / BNPL / Credit Scoring / Digital Lending  
 LegalTech (ML-powered case management, predictive workflows)  
-Core Banking • Insurance • ROSCA / Financial Inclusion • Telecom Integration
+Core Banking • Insurance • ROSCA / Financial Inclusion • Telecom Integration • PSO/PSP Integration
 
 ---
 
